@@ -1,0 +1,15 @@
+{
+  "name": "BookVault",
+  "short_name": "BookVault",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080c0a",
+  "theme_color": "#00e676",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
