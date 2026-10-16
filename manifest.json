@@ -1,15 +1,43 @@
 {
-  "name": "BookVault",
+  "name": "BookVault - Personal Digital Library, PDF Reader & Knowledge System",
   "short_name": "BookVault",
-  "start_url": "./",
+  "description": "Personal Digital Library, PDF Reader & Knowledge System",
+  "start_url": "./BookVault.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#080c0a",
-  "theme_color": "#00e676",
+  "orientation": "any",
+  "background_color": "#0B0D10",
+  "theme_color": "#10B981",
   "icons": [
     {
-      "src": "./icon.png",
+      "src": "Neon Vault Book Icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Neon Vault Book Icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Neon Vault Book Icon.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Neon Vault Book Icon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "Neon Vault Book Icon.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
